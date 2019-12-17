@@ -1,4 +1,4 @@
-package com.interfacetest;
+package com.basics.interfacetest;
 
 public class Aadhaar implements Person {
 

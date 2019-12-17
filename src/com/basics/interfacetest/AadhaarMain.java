@@ -1,4 +1,4 @@
-package com.interfacetest;
+package com.basics.interfacetest;
 
 public class AadhaarMain {
     public static void main(String[] args) {
