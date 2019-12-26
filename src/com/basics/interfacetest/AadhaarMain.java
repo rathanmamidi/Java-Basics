@@ -9,5 +9,7 @@ public class AadhaarMain {
         System.out.println(aadhaarPerson.getSurname());
         System.out.println(aadhaarPerson.getLastName());
         System.out.println(aadhaarPerson.gender());
+
+        System.out.println(aadhaarPerson.getMemoryAllocated());
     }
 }

@@ -11,4 +11,7 @@ public interface Person {
     public String getLastName();
     public String gender();
 
+    default String getMemoryAllocated() {
+        return "100MB";
+    }
 }
